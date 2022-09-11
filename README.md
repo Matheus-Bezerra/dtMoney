@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-    <img src="./src/assets/logo.svg" alt="DashGo Sistema">
+    <img src="./src/assets/Logo.svg" alt="DashGo Sistema">
 <br>
 </h1>
 <p align="center">Foi construído uma aplicação front-end web completa, conectando com a API ( criada usando JSON Server ) e aprendizados/aprofudamentos em Context API e principalmente na perfomance de aplicações com o React.</p>
