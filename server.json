@@ -20,7 +20,7 @@
       "id": 3,
       "description": "Ignite Rocketseat",
       "type": "outcome",
-      "category": "AlimeEducaçãontação",
+      "category": "Educação",
       "price": 1980,
       "createdAt": "2022-05-10T04:59:13.216Z"
     },
@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2022-09-10T03:26:16.904Z",
       "id": 5
+    },
+    {
+      "description": "bicicleta",
+      "category": "Veículo",
+      "price": 500,
+      "type": "outcome",
+      "createdAt": "2022-09-11T22:06:14.438Z",
+      "id": 6
     }
   ]
 }

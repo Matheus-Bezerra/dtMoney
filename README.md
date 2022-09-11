@@ -1,13 +1,13 @@
 <h1 align="center">
 <br>
-    DashGo<span style="color: #D53F8C">.</span> 
+    <img src="./src/assets/logo.svg" alt="DashGo Sistema">
 <br>
 </h1>
-<p align="center">Foi criado uma Dashboard buscando o máximo de aprendizado possível sobre o Chakra UI (criar interface de modo declarativo) e React Hook Form com YUP integrado para validações nos formulários. O projeto ganhará mais funcionalidades em breve, como requisições para preencher dados tanto na tabela quanto nos gráficos, Autenticação com a API do Github usando Next Auth, entre outras, fique ligado😉.</p>
+<p align="center">Foi construído uma aplicação front-end web completa, conectando com a API ( criada usando JSON Server ) e aprendizados/aprofudamentos em Context API e principalmente na perfomance de aplicações com o React.</p>
 <hr> <br>
 
 <div align="center">
-    <img src="./image/dashGo.gif" alt="DashGo Sistema" height="410">
+    <img src="./src/assets/dtMoney.gif" alt="DT Money Sistema" height="410">
 </div>
 
 <hr>
@@ -18,14 +18,15 @@
 O projeto foi desenvolvido com as seguintes Tecnologias:
 
 - React
-- Next
 - Typescript
-- Tan Stack
-- MirageJs
-- Faker
-- Chakra UI
+- Context API
+- JSON Server
+- Axios
+- Styled Components
 - React Hook Form
-- YUP
+- ZOD
+- Context Selectors
+- Perfomance React ( useMemo, memo, useCallback)
 
 ---
 
